@@ -1,0 +1,6 @@
+l=[]
+for i in range (3):
+ mots=input("saisir la liste de vos mots")
+l.append(mots)
+longueur=len(mots)
+print("la longueur", longueur)  

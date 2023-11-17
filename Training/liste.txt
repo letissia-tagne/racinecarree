@@ -1,0 +1,3 @@
+randint est une methode de a bibliotheque random_j   
+
+ le site de recherche de python staverflow

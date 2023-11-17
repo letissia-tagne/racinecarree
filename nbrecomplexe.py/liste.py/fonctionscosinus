@@ -1,0 +1,4 @@
+import math 
+angle=math.pi/4
+result=math.cos(angle)
+print(result)
